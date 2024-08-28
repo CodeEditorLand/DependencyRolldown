@@ -1,0 +1,11 @@
+[submodule "Cargo"]
+path = Cargo
+url = ssh://git@github.com/CodeEditorLand/DependencyRolldownCargo.git
+
+[submodule "NPM"]
+path = NPM
+url = ssh://git@github.com/CodeEditorLand/DependencyRolldownNPM.git
+
+[submodule "Dependency"]
+path = Dependency
+url = ssh://git@github.com/CodeEditorLand/DependencyRolldownDependency.git
